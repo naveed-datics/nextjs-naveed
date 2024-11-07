@@ -1,6 +1,6 @@
 import ProductDetail from "@/components/productDetail";
 
-export default async function ProductPage() {
+export default function ProductPage() {
   return (
     <>
       <ProductDetail

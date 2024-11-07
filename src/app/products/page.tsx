@@ -1,6 +1,6 @@
 import ProductCard from "../../components/productCard";
 
-export default async function ProductList() {
+export default function ProductList() {
   return (
     <div className="grid grid-cols-3">
       <ProductCard
