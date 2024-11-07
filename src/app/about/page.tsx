@@ -15,9 +15,9 @@ export default function About() {
       products. We prioritize a smooth shopping experience, secure payment
       options, and exceptional customer service. With user-friendly navigation,
       fast shipping, and a dedicated support team, we make sure every part of
-      your journey with us is seamless and satisfying. Whether you're shopping
-      for yourself, family, or friends, we’re here to provide a shopping
-      experience that is safe, reliable, and enjoyable. Thank you for choosing
+      your journey with us is seamless and satisfying. Whether re shopping for
+      yourself, family, or friends, we’re here to provide a shopping experience
+      that is safe, reliable, and enjoyable. Thank you for choosing
       [YourWebsiteName]. We’re excited to be a part of your journey, bringing
       you the best products at the best prices. Happy shopping!
     </div>
