@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div className="">
-      <h1 class="text-4xl font-bold text-gray-900">About Website</h1>
+      <h1 className="text-4xl font-bold text-gray-900">About Website</h1>
       About Us Welcome to [YourWebsiteName], your one-stop destination for a
       world of quality products at your fingertips! Our mission is to bring
       convenience, affordability, and style right to your doorstep. We
