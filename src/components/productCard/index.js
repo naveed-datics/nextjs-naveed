@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function ProductCard({ image, title, rating, price, link }) {
   return (
-    <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+    <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700" style={{marginBottom:'40px'}}>
       <Link href={link}>
         <img className="p-8 rounded-t-lg" src={image} alt={title} />
       </Link>
